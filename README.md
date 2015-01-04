@@ -1,4 +1,4 @@
-CALCULATOR
+calculator
 ========
 
 ### Presentation of the project
